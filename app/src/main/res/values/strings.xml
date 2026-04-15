@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">GMediaHud</string>
+    <string name="tracking">Tracking</string>
+    <string name="device">Device</string>
+    <string name="data_collection">Data collection</string>
+    <string name="settings_shortcuts">Settings shortcuts</string>
+    <string name="about_device">About device</string>
+    <string name="developer_options">Developer options</string>
+    <string name="battery_optimization">Battery optimization</string>
+    <string name="device_information">Device Information</string>
+    <string name="show_all">Show all</string>
+    <string name="car_function">Car Functions</string>
+    <string name="sensor">Sensors</string>
+    <string name="last_action">Last action:</string>
+    <string name="all_applications">All applications</string>
+    <string name="filter">Filter</string>
+    <string name="sort_by_recent_changes">Sort by recent changes</string>
+    <string name="show_the_unknowns">Show the unknowns</string>
+
+    <string name="enable_accessibility">To use the app, enable accessibility features</string>
+    <string name="grant_notification_access">For proper operation, grant the app \"notification access\"</string>
+    <string name="accessibility_features">Accessibility features</string>
+    <string name="settings">Settings</string>
+    <string name="mediahud_active">MediaHud is active</string>
+    <string name="mediahud_disabled">MediaHud is disabled</string>
+    <string name="enable">Enable</string>
+    <string name="media_data_sync">media data synchronization</string>
+    <string name="refresh_rate">Refresh rate</string>
+
+    <string name="media_source">Media source</string>
+    <string name="car_media_source_assumption">The car will assume that music is being played from this source</string>
+
+    <string name="subtitle_placeholder">Subtitle placeholder</string>
+    <string name="remove_unknown_artist">Removes the system label \"Unknown Artist\" when the music author is not specified</string>
+
+    <string name="es_explorer_warning">You have "ES File Explorer" installed. This program may not work correctly with it. It is recommended to uninstall it before use. Instead, you can conveniently use "File Manager+"</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="ok">OK</string>
+    <string name="notification_volume">Notification volume</string>
+
+    <string name="grant_file_access">Tap here to grant the app additional file management permissions. This is necessary because the system may block access to the cover art cache in the public directory. As a result, the app won\'t be able to clear files and free up disk space on its own.</string>
+
+    <string name="force_update">Force update</string>
+    <string name="update_all_media_data">Update all media data with each synchronization, including those that may not have changed since the last update</string>
+
+    <string name="audio_source_filter">Audio source filter</string>
+    <string name="audio_source_filter_desc">Do not send media data if the current media source is: Bluetooth, radio, USB, or CarPlay.</string>
+</resources>

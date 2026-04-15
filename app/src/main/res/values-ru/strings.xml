@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">GMediaHud</string>
+    <string name="tracking">Трекинг</string>
+    <string name="device">Устройство</string>
+    <string name="data_collection">Сбор данных</string>
+    <string name="settings_shortcuts">Шорткаты настроек</string>
+    <string name="about_device">О устройстве</string>
+    <string name="developer_options">Опции разработчика</string>
+    <string name="battery_optimization">Оптимизация батареи</string>
+    <string name="device_information">Информация об устройстве</string>
+    <string name="show_all">Показать всё</string>
+    <string name="car_function">Функции автомобиля</string>
+    <string name="sensor">Датчики</string>
+    <string name="last_action">Последнее действие:</string>
+    <string name="all_applications">Все приложения</string>
+    <string name="filter">Фильтры</string>
+    <string name="sort_by_recent_changes">Сортировать по последним изменениям</string>
+    <string name="show_the_unknowns">Показвать неизвестные</string>
+
+    <string name="enable_accessibility">Для работы приложения активируйте специальные возможности</string>
+    <string name="grant_notification_access">Для корректной работы предоставьте приложению «доступ к уведомлениям»</string>
+    <string name="accessibility_features">Спец. возможности</string>
+    <string name="settings">Настройки</string>
+    <string name="mediahud_active">MediaHud активен</string>
+    <string name="mediahud_disabled">MediaHud отключен</string>
+    <string name="enable">Включить</string>
+    <string name="media_data_sync">синхронизацию медиа-данных</string>
+    <string name="refresh_rate">Частота синхронизации</string>
+
+    <string name="media_source">Медиаисточник</string>
+    <string name="car_media_source_assumption">Устройство будет считать что музыка воспроизводится из этого источника</string>
+
+    <string name="subtitle_placeholder">Заглушка подзаголовка</string>
+    <string name="remove_unknown_artist">Убирает системную надпись \"Unknown Artist\" когда не указан автор музыки</string>
+
+    <string name="es_explorer_warning">У вас установлен \"ES проводник\". Эта программа может некорректно работать в сочетании с ним. Перед использованием, рекомендуется его удалить. Для удобства можно использовать \"Файловый менеджер+\".</string>
+    <string name="uninstall">Удалить</string>
+    <string name="ok">Ок</string>
+    <string name="notification_volume">Громкость уведомлений</string>
+
+    <string name="grant_file_access">Нажмите здесь, чтобы предоставить приложению дополнительный доступ для управления файлами. Это необходимо, поскольку система может заблокировать доступ к кэшу обложек в публичном каталоге. Без этого приложение может перестать самостоятельно очищать свои файлы и освобождать место на диске.</string>
+
+    <string name="force_update">Принудительное обновление</string>
+    <string name="update_all_media_data">Обновлять все медиаданные при каждой синхронизации, включая те, которые могли не измениться с последнего обновления</string>
+
+    <string name="audio_source_filter">Фильтр аудиоисточников</string>
+    <string name="audio_source_filter_desc">Не отправлять медиаданные, если текущий аудиоисточник: Bluetooth, радио, USB или CarPlay. Для работы необходимо установить GInputBridge 2.2 или выше</string>
+</resources>

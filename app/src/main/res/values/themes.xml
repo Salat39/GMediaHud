@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.GMediaHud.BaseAppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="colorPrimary">@color/system_background</item>
+        <item name="colorPrimaryVariant">@color/system_background</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/system_background</item>
+        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="o_mr1">default</item>
+        <!-- 21-22 specials -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+
+    <style name="Theme.GMediaHud" parent="Theme.GMediaHud.BaseAppTheme" />
+</resources>
